@@ -1,6 +1,6 @@
 <h1>React Video Play list App<h1>
 
-<!-- [Project Live Link](https://quirky-minsky-8ca914.netlify.app/). -->
+[Project Live Link](https://keen-paletas-5c16ff.netlify.app/).
 
 # Project Overview
 
